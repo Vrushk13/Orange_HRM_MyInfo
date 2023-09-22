@@ -1,0 +1,81 @@
+﻿Project Name,OrangeHRM Version 3.0 – My Info Module,,
+Reference Document,"Project Functional Requirement Specification , Version 1",,
+Created by,,,
+Date of creation,,,
+Date of review,,,
+,,,
+Test scenario ID,Req Ref  Doc,Test Scenario Description ,No. of Test Cases
+TS_MI_01,Section 3.1.1,Check if the user is able enter the Orange HRM Application with Successful ESS User Account,
+TS_MI_02,Section 3.1.1,"Check if the user is able to see the ""Personal details"" screen on logging in the application",
+TS_MI_03,Section 3.1.1,"Check if the user is able to edit the fields given below
+1. Employee ID
+2. SSN No
+3. SIN No
+4. Driver Licenese No
+5. Date of Birth",
+TS_MI_04,Section 3.1.2,"Check if the user can upload a picture of size 1 MB and Format JPG, PNG, GIF",
+TS_MI_05,Section 3.1.3,"Check if the user is able to edit and enter the given fields and save them
+• Country – Select the country from the drop down
+• Street 1
+• Street 2
+• City/Town
+• State/Province – If the country is United Sates you can select from the drop down or you need to enter it manually
+• ZIP Code
+• Home Telephone
+• Mobile
+• Work Telephone
+• Work Email
+• Other Email
+",
+TS_MI_06,Section 3.1.4,"Check if the user able to edit and enter the given fields and save them
+1.Relationship 
+2.Home Telephone 
+3.Mobile Number
+4.Name
+5.Work Phone",
+TS_MI_07,Section 3.1.5,"Check if the user able to edit and enter the given fields and save them
+1.Name
+2.Relationship
+3.Date of Birth",
+TS_MI_08,Section 3.1.6,"Check if the user able to edit and enter the given field and save them
+1.Number
+2.Issued Date
+3.Expiry Date
+4.Eligible Status
+5.Eligible Review Date",
+TS_MI_09,Section 3.1.7,"Check if the user able to edit and enter the given fields and save them
+1.Job Title
+2.Jobs Specification
+3. Employment Status
+4. Job Category
+5. Joined Date
+6. Sub Unit
+7. Location
+8. Employment Contract Start Date
+9. Employment Contract End Date
+10. Attachments",
+TS_MI_10,Section 3.1.8,"Check if the user able to edit and enter the given field and save them
+1.Salary Component
+2. Pay Frequency
+3. Currency
+4. Amount
+5. Comments
+6. Direct Deposit Details
+7. Attachments
+",
+TS_MI_11,Section 3.1.9,"Check if the user able see the list of the supervisor list
+",
+TS_MI_12,Section 3.1.10,"Check if the user able to edit and enter the given fields and save them
+1.Work Experence
+2.Education
+3.Skill
+4.language
+5.License
+6.Attachments",
+TS_MI_13,Section 3.1.11,"Check if the user able to edit and enter the given fields and save them
+1.Membership 
+2.Subscription Paid by
+3.Subscription amount
+4.currency
+5.Subscription commence date 
+6.Subscription renewal date",
